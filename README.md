@@ -1,3 +1,16 @@
+# CitySDK / Rebuilding re-entry example #
+
+This is a fork of the CitySDK code, with just an example to get Group Quarters data for the Rebuilding Re-Entry project (https://techlady.hackpad.com/Rebuilding-Re-Entry-AvrUpjvLYik).
+
+Search by State and get a CSV output-ish of:
+- county
+- countyname
+- lat
+- lng
+- income
+- population
+- group_quarters population
+
 # CitySDK #
 
 This readme is a work in progress. For an overview of the project, please visit [https://uscensusbureau.github.io/citysdk](https://uscensusbureau.github.io/citysdk)

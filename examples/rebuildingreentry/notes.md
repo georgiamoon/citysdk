@@ -6,8 +6,6 @@ data
 api for census prison population data
 prisons, nursings homes, colleges
 
-census API key: 5b970404c12aeda77feb30137b58c1209882f653
-
 case for why we need re-entry specific data
 
 neighborhood --> arrests --> prison --> return --> neighborhood
